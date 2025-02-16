@@ -1,6 +1,6 @@
 package Automation.MavenAutomation1;
 
-import org.junit.jupiter.api.Test;
+import org.testng.annotations.Test;
 
 /**
  * Unit test for simple App.
